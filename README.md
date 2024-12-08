@@ -1,4 +1,4 @@
-![logo](https://github.com/codewmanas/codewmanas/blob/main/banner.png)
+<!--![logo](https://github.com/codewmanas/codewmanas/blob/main/banner.png)-->
 
 <h1 align="center">Hello Im Manas  Kolaskar</h1>
 <h3 align="center">Aspiring Software Developer | Exploring App Dev, AI, and ML | Lifelong Learner on the Tech Journey</h3>
