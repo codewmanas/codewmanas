@@ -5,7 +5,6 @@
 
 <img align="right" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <a href="https://twitter.com/manas_verse" target="blank"><img src="https://img.shields.io/twitter/follow/manas_verse?logo=twitter&style=for-the-badge" alt="manas_verse" /></a> </p>
 
 - 🔭 I’m currently working on **Aura 2024 Hackathon**
 
