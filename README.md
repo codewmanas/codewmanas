@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Full Stack Development**
 
-- 🌱 I’m currently learning **MERN , Flutter Asp.net , Gen AI**
+- 🌱 I’m currently learning **MERN , Flutter , Asp.net , Gen AI**
 
 - 👨‍💻 All of my projects are available at [https://manaskolaskar.wixsite.com/manas-portfolio-1](https://manaskolaskar.wixsite.com/manas-portfolio-1)
 
