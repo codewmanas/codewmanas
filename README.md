@@ -28,8 +28,6 @@
 
 <!--![codewmanas's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codewmanas&theme=prussian&show_icons=true&hide_border=true&layout=compact) &nbsp;
 ![codewmanas's Streak](https://github-readme-streak-stats.herokuapp.com/?user=codewmanas&theme=prussian&hide_border=true)-->
-## My Recently Played Songs while Coding
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=edh60hqqz9ygi58envzw9cany&unique={true|1|on|yes})
 
 
 ### ✍️ Random Dev Quote
