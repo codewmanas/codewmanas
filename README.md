@@ -1,1 +1,1 @@
-<img title="a title" align="center" alt="Alt text" src="/header.png">
+<img align="center" alt="Alt text" src="/header.png">
