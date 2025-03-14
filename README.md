@@ -5,7 +5,7 @@
 I'm an App Developer, Full-Stack Developer, and an Aspiring AI Engineer—and all this while being a student! 🎓
 
 ####  📚 I Am Currently Learning
-Flutter (IBM Coursera Certification)  **[Repo Link](https://github.com/codewmanas/Coursera-IBM-Flutter)** <br />
+Flutter (IBM Coursera Certification)<br />
 Generative AI Engineering<br />
 Data Science<br />
 Next.js & React Native<br />
