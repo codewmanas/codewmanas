@@ -113,9 +113,15 @@ More projects on my GitHub 🚀<br />
 ###
 
 <div align="left">
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/chatgpt-icon.png" height="40" alt="openai logo"  />
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" height="40" alt="claude logo"  />
+<img src="https://brandlogos.net/wp-content/uploads/2025/02/deepseek_logo_icon-logo_brandlogos.net_s5bgc.png" height="40" alt="deepseek logo"  />
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-gemini-icon.png" height="40" alt="gemini logo"  />
+  <img src="https://xebia.com/wp-content/uploads/2024/04/copilot-logo.png.webp" height="40" alt="github copilot logo"  />
 </div>
 
 ###
+
 
 <h2 align="left">My workspace</h2>
 
