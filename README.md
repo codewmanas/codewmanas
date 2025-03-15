@@ -92,6 +92,22 @@ More projects on my GitHub 🚀<br />
 
 ###
 
+<h3 align="left">Gen AI / ML </h3>
+
+###
+
+<div align="left">
+ <img src="https://miro.medium.com/v2/resize:fit:2000/1*odEY2uy37q-GTb8-u7_j8Q.png" height="40" alt="logo"  />
+<img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" height="40" alt="logo"  />
+<img src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white" height="40" alt="logo"  />
+<img src="https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white" height="40" alt="logo"  />
+<img src="https://cdn.dida.do/blog/screenshot-2024-12-09-at-12.57.07.png" height="40" alt="logo"  />
+<img src="https://cdn.prod.website-files.com/64f6f2c0e3f4c5a91c1e823a/65d36320026d81d87266e15f_together-color.jpg" height="40" alt="logo"  />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVMEQ24nWw0v_YMekCDGZQY17S2FRZyUr_cw&s" height="40" alt="logo"  />
+</div>
+
+###
+
 <h3 align="left">Cloud Services and Deployments</h3>
 
 ###
@@ -138,6 +154,14 @@ More projects on my GitHub 🚀<br />
 ###
 
 <p align="left">Apples Mac Mini (M4)</p>
+
+### My Browser
+
+###
+<div align="left">
+<img src="https://img.shields.io/badge/Arc-000000?style=for-the-badge&logo=arc&logoColor=white" height="40" alt="jupyter logo"  />
+<img src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white" height="40" alt="jupyter logo"  />
+</div>
 
 ###
 
