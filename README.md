@@ -139,7 +139,7 @@ More projects on my GitHub 🚀<br />
 ###
 
 
-<h2 align="left">My workspace</h2>
+<h3 align="left">My workspace</h2>
 
 ###
 
@@ -155,7 +155,7 @@ More projects on my GitHub 🚀<br />
 
 <p align="left">Apples Mac Mini (M4)</p>
 
-### My Browser
+### My Browsers
 
 ###
 <div align="left">
@@ -171,8 +171,6 @@ More projects on my GitHub 🚀<br />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="32" alt="google logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" alt="linux logo"  />
 </div>
