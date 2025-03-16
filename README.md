@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me
-I'm an App Developer, Full-Stack Developer, and an Aspiring AI Engineer—and all this while being a student! 🎓 (Bachelors in Computer Applications)   <br />
+I'm an App Developer, Full-Stack Developer, and an Aspiring AI Engineer—and all this while being a student! 🎓<br />
 Interested in **AI & Building AI Agents**—always exploring ways to create intelligent systems   
 
 ####  📚 I Am Currently Learning
