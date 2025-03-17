@@ -136,46 +136,20 @@ More projects on my GitHub 🚀<br />
   <img src="https://xebia.com/wp-content/uploads/2024/04/copilot-logo.png.webp" height="40" alt="github copilot logo"  />
 </div>
 
-###
-
-
-<h3 align="left">My workspace</h2>
-
-###
-
-<h4 align="left">Hardware and Gear:</h4>
+<h3 align="left"> My coding Workspace (Hardware , Gear Tools!)</h3>
 
 ###
 
 <div align="left">
   <img src="https://img.shields.io/badge/Apple-000000?logo=apple&logoColor=white&style=for-the-badge" height="40" alt="apple logo"  />
+  <img src="https://img.shields.io/badge/Arc-000000?style=for-the-badge&logo=arc&logoColor=white" height="40" alt="jupyter logo"  /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" alt="vscode logo"  />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" alt="linux logo"  />&nbsp;
 </div>
 
 ###
 
-<p align="left">Apples Mac Mini (M4)</p>
-
-### My Browsers
-
-###
-<div align="left">
-<img src="https://img.shields.io/badge/Arc-000000?style=for-the-badge&logo=arc&logoColor=white" height="40" alt="jupyter logo"  />
-<img src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white" height="40" alt="jupyter logo"  />
-</div>
-
-###
-
-<h3 align="left">Coding Workspace</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" alt="linux logo"  />
-</div>
-
-###
+<p align="left">Apples Mac Mini (M4) , Arc Browser , Vs Code , Linux </p>
 
 <h2 align="left">My Stats🔥</h2>
 
