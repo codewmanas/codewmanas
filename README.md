@@ -6,7 +6,6 @@ I'm an App Developer, Full-Stack Developer, and an Aspiring AI Engineer—and al
 Interested in **AI & Building AI Agents**—always exploring ways to create intelligent systems   
 
 ####  📚 I Am Currently Learning
-Flutter (IBM Coursera Certification)<br />
 Generative AI Engineering<br />
 Data Science<br />
 Next.js & React Native<br />
