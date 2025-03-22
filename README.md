@@ -5,20 +5,6 @@
 I'm an App Developer, Full-Stack Developer, and an Aspiring AI Engineer—and all this while being a student! 🎓<br />
 Interested in **AI & Building AI Agents**—always exploring ways to create intelligent systems   
 
-####  📚 I Am Currently Learning
-Generative AI Engineering<br />
-Data Science<br />
-Next.js & React Native<br />
-
-#### 🔨 I Am Currently Building
-Expense Tracker App (Final project for IBM Flutter certification) <br />  
-Minimal Task Manager App (Flutter & TypeScript)<br /> 
-RemMedy A Medication Tracker App (React Native & TypeScript)</br>
-More projects on my GitHub 🚀<br />
-
-#### Always exploring, building, and learning—because growth never stops!
- **"Code. Learn. Build. Repeat."**
-
 <h2 align="left">My Tech Stack (Core)</h2>
 
 ###
@@ -98,12 +84,10 @@ More projects on my GitHub 🚀<br />
 <div align="left">
  <img src="https://miro.medium.com/v2/resize:fit:2000/1*odEY2uy37q-GTb8-u7_j8Q.png" height="40" alt="logo"  />
 <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" height="40" alt="logo"  />
-<img src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white" height="40" alt="logo"  />
-<img src="https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white" height="40" alt="logo"  />
 <img src="https://cdn.dida.do/blog/screenshot-2024-12-09-at-12.57.07.png" height="40" alt="logo"  />
-<img src="https://cdn.prod.website-files.com/64f6f2c0e3f4c5a91c1e823a/65d36320026d81d87266e15f_together-color.jpg" height="40" alt="logo"  />
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVMEQ24nWw0v_YMekCDGZQY17S2FRZyUr_cw&s" height="40" alt="logo"  />
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/mistral-ai-icon.png" height="40" alt="logo"  />
+<img src="https://avatars.githubusercontent.com/u/85702467?s=280&v=4" height="40" alt="logo"  />
+  
 </div>
 
 ###
