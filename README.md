@@ -103,6 +103,7 @@ More projects on my GitHub 🚀<br />
 <img src="https://cdn.dida.do/blog/screenshot-2024-12-09-at-12.57.07.png" height="40" alt="logo"  />
 <img src="https://cdn.prod.website-files.com/64f6f2c0e3f4c5a91c1e823a/65d36320026d81d87266e15f_together-color.jpg" height="40" alt="logo"  />
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVMEQ24nWw0v_YMekCDGZQY17S2FRZyUr_cw&s" height="40" alt="logo"  />
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/mistral-ai-icon.png" height="40" alt="logo"  />
 </div>
 
 ###
