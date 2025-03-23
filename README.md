@@ -2,14 +2,13 @@
 
 
 ## 🚀 About Me
-I'm an App Developer, Full-Stack Developer, and an Aspiring AI Engineer—and all this while being a student! 🎓<br />
-Interested in **AI & Building AI Agents**—always exploring ways to create intelligent systems   
+Hi, I am Manas Kolaskar, a self taught developer, pursuing his bachelor's  degree in computer applications. With a strong foundation in python, AI, ML, data science, and full stack development, I specialize particularly in building comprehensive solutions from the root. I believe, my journey in tech is rooted in continuous learning which is how I have honed my skill set. 
 
 <h2 align="left">My Tech Stack (Core)</h2>
 
 ###
 
-<h3 align="left">Languages And Frameworks</h3>
+<h4 align="left">Languages And Frameworks</h4>
 
 ###
 
@@ -39,7 +38,7 @@ Interested in **AI & Building AI Agents**—always exploring ways to create inte
 
 ###
 
-<h3 align="left">DataBases:</h3>
+<h4 align="left">DataBases:</h4>
 
 ###
 
@@ -59,7 +58,7 @@ Interested in **AI & Building AI Agents**—always exploring ways to create inte
 
 ###
 
-<h3 align="left">Data Engineering</h3>
+<h3 align="left">Data Engineering</h4>
 
 ###
 
@@ -75,7 +74,7 @@ Interested in **AI & Building AI Agents**—always exploring ways to create inte
 
 ###
 
-<h3 align="left">Gen AI / ML </h3>
+<h4 align="left">Gen AI / ML </h4>
 
 ###
 
@@ -90,7 +89,7 @@ Interested in **AI & Building AI Agents**—always exploring ways to create inte
 
 ###
 
-<h3 align="left">Cloud Services and Deployments</h3>
+<h4 align="left">Cloud Services and Deployments</h4>
 
 ###
 
@@ -106,32 +105,6 @@ Interested in **AI & Building AI Agents**—always exploring ways to create inte
 
 ###
 
-<h3 align="left">My Buddies ( Ai tools XD )</h3>
-
-###
-
-<div align="left">
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/chatgpt-icon.png" height="40" alt="openai logo"  />
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" height="40" alt="claude logo"  />
-<img src="https://brandlogos.net/wp-content/uploads/2025/02/deepseek_logo_icon-logo_brandlogos.net_s5bgc.png" height="40" alt="deepseek logo"  />
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-gemini-icon.png" height="40" alt="gemini logo"  />
-  <img src="https://xebia.com/wp-content/uploads/2024/04/copilot-logo.png.webp" height="40" alt="github copilot logo"  />
-</div>
-
-<h3 align="left"> My coding Workspace (Hardware , Gear Tools!)</h3>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Apple-000000?logo=apple&logoColor=white&style=for-the-badge" height="40" alt="apple logo"  />
-  <img src="https://img.shields.io/badge/Arc-000000?style=for-the-badge&logo=arc&logoColor=white" height="40" alt="jupyter logo"  /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" alt="vscode logo"  />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" alt="linux logo"  />&nbsp;
-</div>
-
-###
-
-<p align="left">Apples Mac Mini (M4) , Arc Browser , Vs Code , Linux </p>
 
 <h2 align="left">My Stats🔥</h2>
 
