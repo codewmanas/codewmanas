@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me
-Hi, I am Manas Kolaskar, a self taught developer, pursuing his bachelor's  degree in computer applications. With a strong foundation in python, AI, ML, data science, and full stack development, I specialize particularly in building comprehensive solutions from the root. I believe, my journey in tech is rooted in continuous learning which is how I have honed my skill set. 
+Hi, I am Manas Kolaskar, a self taught developer, pursuing his bachelor's  degree in computer applications. With a strong foundation in python, AI, ML, data science, and full stack development, I specialize particularly in building comprehensive solutions from the root. I believe, my journey in tech is rooted in continuous learning which is how I have honed my skill set.  
 
 <h2 align="left">My Tech Stack (Core)</h2>
 
